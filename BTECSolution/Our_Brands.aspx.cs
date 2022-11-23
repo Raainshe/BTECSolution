@@ -7,12 +7,11 @@ using System.Web.UI.WebControls;
 
 namespace BTECSolution
 {
-    public partial class SiteMaster : MasterPage
+    public partial class Our_Brands : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            string year = DateTime.Now.Year.ToString();
-            cyear.InnerText = year;
+
         }
     }
 }

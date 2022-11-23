@@ -11,7 +11,7 @@ namespace BTECSolution
 {
 
 
-    public partial class _Default
+    public partial class Our_Brands
     {
     }
 }
