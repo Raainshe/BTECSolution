@@ -11,7 +11,7 @@ namespace BTECSolution
 {
 
 
-    public partial class About
+    public partial class Home
     {
     }
 }

@@ -47,7 +47,21 @@
 1. Reset
 HTML5 display-role reset for older browsers
 ----------------------------------------------*/
+/* #Custom */
+.nav-h{
+    background-color: transparent !important;
+}
+.card-h{
+    height: 25rem;
+}
+.logo{
+    height: 10rem;
+}
+.bg-grey{
+    background-color: #EEF4ED !important;
+}
 
+/* #Custom End*/
 /* #region Reset */
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -1452,7 +1466,7 @@ aside {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: var(--dark-grey-color);
+    /* background-color: var(--dark-grey-color); */
     border-radius: 10px;
     opacity: 0.5;
     -webkit-transition: all .2s ease-out 0s;
@@ -1466,7 +1480,7 @@ aside {
     z-index: -1;
     height: auto;
     min-height: 360px;
-    object-fit: cover;
+    object-fit: contain;
     object-position: center;
     -webkit-transition: all .3s ease-out 0s;
     -o-transition: all .3s ease-out 0s;
@@ -1481,10 +1495,12 @@ aside {
     -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
     -moz-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
     transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    background-color: var(--dark-grey-color);
 }
 
 .showcase .card:hover .card-body {
     transform: translateY(0);
+    background-color: var(--dark-grey-color);
 }
 
 .showcase .card:hover .card-footer {
@@ -1765,6 +1781,7 @@ aside {
 
 /* #region Header */
 
+
 header {
     position: relative;
     z-index: 5;
@@ -1875,7 +1892,8 @@ header .navbar-expand .navbar-brand i {
 }
 
 header .navbar-expand .navbar-brand img {
-    height: var(--nav-brand-height);
+    height: 5rem;
+    /* var(--nav-brand-height) */
 }
 
 header .navbar-expand .navbar-brand .brand {
@@ -3149,10 +3167,13 @@ header .navbar-expand .navbar-brand .featured .first {
 }
 
 .image-over {
-    overflow: hidden;
+    /* overflow: hidden; */
     border-radius: 10px;
+    
 }
-
+.image-over img{
+    max-width: 100%;
+}
 .image-person img {
     transition-timing-function: cubic-bezier(.25, .25, .75, .75);
     transition-duration: 0.4s;
@@ -4390,6 +4411,7 @@ footer .copyright p {
 @media(max-width: 991px) {
 
     /* #region General */
+    
 
     body h1,
     body .slide-content .title {
@@ -4485,6 +4507,7 @@ footer .copyright p {
 }
 
 @media(max-width: 767px) {
+    
 
     /* #region General */
 
@@ -4685,6 +4708,7 @@ footer .copyright p {
 @media (max-width: 576px) {
 
     /* #region Feature */
+    
 
     body .bricklayer-column-sizer {
 		width: 100%;
