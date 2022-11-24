@@ -85,6 +85,26 @@
 ----------------------------------------------*/
 
 /* #region Button */
+.btn-primary2, .btn-primary2:visited, .btn-primary2:active{
+    position: relative ;
+    z-index: 2;
+    padding: 10px 25px;
+    background-color: var(--primary-color);
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: var(--primary-color);
+    color: var(--primary-b-color);
+    font-weight: 500;
+    -webkit-transition: all .4s ease-out 0s;
+    -o-transition: all .4s ease-out 0s;
+    -moz-transition: all .4s ease-out 0s;
+    transition: all .4s ease-out 0s;
+}
+.btn-primary2:hover, .btn-primary2:focus{
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+    color: var(--white-color);
+}
 
 .primary-button, .primary-button:visited, .primary-button:active {
     position: relative;

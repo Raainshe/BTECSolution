@@ -6,16 +6,16 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-     <title>BTEC Solutions</title>
+     <title>BTEC Solutions Pty Ltd</title>
 
-        <meta name="description" content="BTEC Solutionsy">
-        <meta name="subject" content="BTEC Solutions">
-        <meta name="author" content="BTEC Solutions">
+        <meta name="description" content="BTEC Solutions Pty Ltd">
+        <meta name="subject" content="BTEC Solutions Pty Ltd">
+        <meta name="author" content="BTEC Solutions Pty Ltd">
 
         <!-- ==============================================
         Favicons
         =============================================== -->
-        <link rel="shortcut icon" href="assets/images/favicon.ico">
+        <link rel="shortcut icon" href="assets/images/logo-small.png">
         <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
         <link rel="apple-touch-icon" sizes="72x72" href="assets/images/apple-touch-icon-72x72.png">
         <link rel="apple-touch-icon" sizes="114x114" href="assets/images/apple-touch-icon-114x114.png">
@@ -83,7 +83,7 @@
                     <!-- Navbar Items [left] -->
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a href="#" class="nav-link pl-0"><i class="fas fa-clock mr-2"></i>Open Hours: Mon - Sat - 9:00 - 18:00</a>
+                            <a href="#" class="nav-link pl-0"><i class="fas fa-clock mr-2"></i>Open Hours: Mon - Fri - 8:00 - 16:00</a>
                         </li>
                     </ul>
 
@@ -115,7 +115,7 @@
                 <div class="container header">
 
                     <!-- Navbar Brand-->
-                    <a class="navbar-brand" href="/">
+                    <a class="navbar-brand" href="home">
                         
                         
    
@@ -177,7 +177,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12 col-md-6 p-3 text-center text-lg-left">
-                            <p>© <span id="cyear" runat="server"></span> Copyright BTEC Solutions. Developed by <a href="https://www.keyspace.co.za">Key Space</a></p>
+                            <p>© <span id="cyear" runat="server"></span> Copyright BTEC Solutions Pty Ltd. Developed by <a href="https://www.keyspace.co.za">Key Space</a></p>
                             <!--
                                 Suggestion: Replace the text above with a description of your website.
                              -->

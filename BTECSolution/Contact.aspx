@@ -75,31 +75,48 @@
                     </div>
                     <div class="col-12 col-md-4">
                         <div class="contacts">
-                            <h4>BTEC Solutions</h4>
+                            <h4>BTEC Solutions Pty Ltd</h4>
                            
                             <ul class="navbar-nav">
                                 <li class="nav-item">
                                     <a href="tel:+27114700585" class="nav-link">
-                                        <i class="fas fa-phone-alt mr-2"></i>
-                                        +27 11 470 0585
+                                        <div class="row">
+                                            <div class="col-2 my-auto"><i class="fas fa-phone-alt mr-2"></i></div>
+                                            <div class="col-10 my-auto">+27 11 470 0585</div>
+                                        </div>
+                                        
+                                        
                                     </a>
                                 </li>
                                 <li class="nav-item">
+                                    
                                     <a href="mailto:info@btecsolutions.co.za" class="nav-link">
-                                        <i class="fas fa-envelope mr-2"></i>
-                                        info@btecsolutions.co.za
+                                        
+                                        <div class="row">
+                                        <div class="col-2 my-auto"><i class="fas fa-envelope mr-2"></i></div>
+                                        <div class="col-10 my-auto">info@btecsolutions.co.za</div>
+                                    </div>
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="#" class="nav-link">
-                                        <i class="fas fa-map-marker-alt mr-2"></i>
-                                        61 Bernard Street Bergbron, 1709 (Gauteng Branch)
+                                        
+                                        <div class="row">
+                                            <div class="col-2 my-auto"><i class="fas fa-map-marker-alt mr-2"></i></div>
+                                            <div class="col-10 my-auto">61 Bernard Street Bergbron, 1709 (Gauteng Branch)</div>
+                                        </div>
+                                        
+                                        
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="#" class="nav-link">
-                                        <i class="fas fa-map-marker-alt mr-2"></i>
-                                        No 7 Coega Crescent Bridgemead Port Elizabeth, 6025 (Port Elizabeth Branch)
+                                        <div class="row">
+                                            <div class="col-2 my-auto"><i class="fas fa-map-marker-alt mr-2"></i></div>
+                                            <div class="col-10 my-auto">Port Elizabeth (Gqeberha)</div>
+                                        </div>
+                                        
+                                        
                                     </a>
                                 </li>
                                 <li class="nav-item">
@@ -112,5 +129,5 @@
             </div>
         </section>
 
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3580.894192407129!2d27.954225076442118!3d-26.16757516248504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e950af128c7db0d%3A0xdb39e8d3deb91720!2s61%20Bernard%20St%2C%20Bergbron%2C%20Randburg%2C%201712!5e0!3m2!1sen!2sza!4v1669227383556!5m2!1sen!2sza" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3580.894192407129!2d27.954225076442118!3d-26.16757516248504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e950af128c7db0d%3A0xdb39e8d3deb91720!2s61%20Bernard%20St%2C%20Bergbron%2C%20Randburg%2C%201712!5e0!3m2!1sen!2sza!4v1669227383556!5m2!1sen!2sza" width="100%" height="450" style="border:0; padding:0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </asp:Content>

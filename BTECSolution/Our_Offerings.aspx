@@ -48,7 +48,7 @@
                         <!-- Action -->
                         <div data-aos="fade-up" class="buttons">
                             <div class="d-sm-inline-flex mb-5 mb-md-0">
-                                <a href="#contact" class="smooth-anchor mx-auto mt-4 btn primary-button">GET IN TOUCH</a>
+                                <a href="Contact" class="mx-auto mt-4 btn primary-button">GET IN TOUCH</a>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                     <!-- Action -->
                     <div data-aos="fade-up" class="buttons">
                         <div class="d-sm-inline-flex mb-5 mb-md-0">
-                            <a href="#contact" class="smooth-anchor mx-auto mt-4 btn primary-button">GET IN TOUCH</a>
+                            <a href="Contact" class="mx-auto mt-4 btn primary-button">GET IN TOUCH</a>
                         </div>
                     </div>
                 </div>
@@ -103,7 +103,7 @@
                         <!-- Action -->
                         <div data-aos="fade-up" class="buttons">
                             <div class="d-sm-inline-flex mb-5 mb-md-0">
-                                <a href="#contact" class="smooth-anchor mx-auto mt-4 btn primary-button">GET IN TOUCH</a>
+                                <a href="Contact" class="mx-auto mt-4 btn primary-button">GET IN TOUCH</a>
                             </div>
                         </div>
                     </div>
@@ -130,7 +130,7 @@
                     <!-- Action -->
                     <div data-aos="fade-up" class="buttons">
                         <div class="d-sm-inline-flex mb-5 mb-md-0">
-                            <a href="#contact" class="smooth-anchor mx-auto mt-4 btn primary-button">GET IN TOUCH</a>
+                            <a href="Contact" class="mx-auto mt-4 btn primary-button">GET IN TOUCH</a>
                         </div>
                     </div>
                 </div>
@@ -158,7 +158,7 @@
                         <!-- Action -->
                         <div data-aos="fade-up" class="buttons">
                             <div class="d-sm-inline-flex mb-5 mb-md-0">
-                                <a href="#contact" class="smooth-anchor mx-auto mt-4 btn primary-button">GET IN TOUCH</a>
+                                <a href="Contact" class="mx-auto mt-4 btn primary-button">GET IN TOUCH</a>
                             </div>
                         </div>
                     </div>
@@ -185,12 +185,12 @@
                     <!-- Action -->
                     <div data-aos="fade-up" class="buttons">
                         <div class="d-sm-inline-flex mb-5 mb-md-0">
-                            <a href="#contact" class="smooth-anchor mx-auto mt-4 btn primary-button">GET IN TOUCH</a>
+                            <a href="Contact" class="mx-auto mt-4 btn primary-button">GET IN TOUCH</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 p-0 image">
-                    <img src="assets/images/enterprise.jpg" class="fit-image" alt="Fit Image">
+                    <img src="assets/images/technical.jpg" class="fit-image" alt="Fit Image">
                 </div>
             </div>
             </div>

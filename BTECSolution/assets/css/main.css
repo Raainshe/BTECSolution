@@ -60,7 +60,12 @@ HTML5 display-role reset for older browsers
 .bg-grey{
     background-color: #EEF4ED !important;
 }
-
+.logo-home{
+    height: 30rem;
+}
+.sup-home{
+    font-size: 1rem !important;
+}
 /* #Custom End*/
 /* #region Reset */
 
