@@ -13,5 +13,19 @@ namespace BTECSolution
         {
 
         }
+
+        protected void btnSend_Click(object sender, EventArgs e)
+        {
+            string sName = frmName.Value;
+            string sEmail = frmEmail.Value;
+            string sMsg = frmMessage.Value;
+
+            string sSubject = sName + " would like to contact you!";
+            string sBody = sName + ": " + sMsg + "\n" + sMsg;
+
+            EmailClass.SendEmailFromClient(sBody, sSubject);
+            alertMsg.Visible = true;
+
+        }
     }
 }

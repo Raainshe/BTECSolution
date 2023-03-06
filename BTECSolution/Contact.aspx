@@ -46,7 +46,8 @@
                         </div>
                         <div class="row">
                             <div class="col-12 p-0">
-                                <form action="php/form.php" id="nexgen-simple-form" class="nexgen-simple-form">
+                                <div class="alert alert-success text-center" visible="false" runat="server" id="alertMsg">Your message has been succesfully sent!</div>
+                                <form runat="server" id="form" class="nexgen-simple-form">
                                     <input type="hidden" name="section" value="nexgen_form">
 
                                     <input type="hidden" name="reCAPTCHA">
@@ -54,19 +55,20 @@
 
                                     <div class="row form-group-margin">
                                         <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                            <input type="text" name="name" class="form-control field-name" placeholder="Name">
+                                            <input type="text" id="frmName" name="name" required runat="server" class="form-control field-name" placeholder="Name">
                                         </div>
                                         <div class="col-12 col-md-6 m-0 p-2 input-group">
-                                            <input type="email" name="email" class="form-control field-email" placeholder="Email">
+                                            <input type="email" id="frmEmail" name="email" required runat="server" class="form-control field-email" placeholder="Email">
                                         </div>
                                         <div class="col-12 m-0 p-2 input-group">
-                                            <textarea name="message" class="form-control field-message" placeholder="Message"></textarea>
+                                            <textarea name="message" id="frmMessage" class="form-control field-message" required runat="server" placeholder="Message"></textarea>
                                         </div>
                                         <div class="col-12 col-12 m-0 p-2 input-group">
                                             <span class="form-alert"></span>
                                         </div>
                                         <div class="col-12 input-group m-0 p-2">
-                                            <a class="btn primary-button">SEND</a>
+                                            
+                                            <asp:Button ID="btnSend" runat="server" CssClass="btn primary-button text-white" Text="Send" OnClick="btnSend_Click"/>
                                         </div>
                                     </div>
                                 </form>

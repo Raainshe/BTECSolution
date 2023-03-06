@@ -30,19 +30,19 @@
                 </div>
             </div>
         </section>
-     <!-- Carousel 2 -->
-        <section class="section-2 carousel showcase">
-            <div class="container">
+  
+
+    <section class="section-2 showcase blog-grid projects">
+            <div class="container smaller">
                 <div class="row text-center intro">
                     <div class="col-12">
-                        <h2>Brands We Work With</h2>
+                        <h2 class="text-">Brands We Work With</h2>
                         
                     </div>
                 </div>
-                <div class="swiper-container mid-slider items" data-perview="3"> 
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide slide-center item">
-                            <div class="row card p-0 text-center">
+                <div class="row items">
+                    <div class="col-12 col-md-6 item">
+                        <div class="row card p-0 text-center">
                                 <div class="image-over">
                                     <img src="assets/images/microsoft.png" alt="microsoft image">
                                 </div>  
@@ -54,9 +54,9 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide slide-center item">
-                            <div class="row card p-0 text-center">
+                    </div>            
+                    <div class="col-12 col-md-6 item">
+                        <div class="row card p-0 text-center">
                                 <div class="image-over">
                                     <img src="assets/images/critix.png" alt="critix logo">
                                 </div>  
@@ -68,9 +68,9 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide slide-center item">
-                            <div class="row card p-0 text-center">
+                    </div>     
+                    <div class="col-12 col-md-6 item">
+                        <div class="row card p-0 text-center">
                                 <div class="image-over">
                                     <img src="assets/images/cisco.png" alt="cisco logo">
                                 </div>  
@@ -82,9 +82,9 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide slide-center item">
-                            <div class="row card p-0 text-center">
+                    </div>
+                    <div class="col-12 col-md-6 item">
+                        <div class="row card p-0 text-center">
                                 <div class="image-over">
                                     <img src="assets/images/aruba.png" alt="aruba logo">
                                 </div>  
@@ -96,9 +96,9 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide slide-center item">
-                            <div class="row card p-0 text-center">
+                    </div>
+                    <div class="col-12 col-md-6 item">
+                        <div class="row card p-0 text-center">
                                 <div class="image-over">
                                     <img src="assets/images/ruckus.png" alt="ruckus wireless logo">
                                 </div>  
@@ -110,9 +110,9 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide slide-center item">
-                            <div class="row card p-0 text-center">
+                    </div>
+                    <div class="col-12 col-md-6 item">
+                        <div class="row card p-0 text-center">
                                 <div class="image-over">
                                     <img src="assets/images/dell.png" alt="dell logo">
                                 </div>  
@@ -124,9 +124,9 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide slide-center item">
-                            <div class="row card p-0 text-center">
+                    </div>
+                    <div class="col-12 col-md-6 item">
+                        <div class="row card p-0 text-center">
                                 <div class="image-over">
                                     <img src="assets/images/symantec.png" alt="symantec logo">
                                 </div>  
@@ -138,9 +138,9 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide slide-center item">
-                            <div class="row card p-0 text-center">
+                    </div>
+                    <div class="col-12 col-md-6 item">
+                        <div class="row card p-0 text-center">
                                 <div class="image-over">
                                     <img src="assets/images/lenovo.png" alt="lenovo logo">
                                 </div>  
@@ -152,9 +152,9 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide slide-center item">
-                            <div class="row card p-0 text-center">
+                    </div>
+                    <div class="col-12 col-md-6 item">
+                        <div class="row card p-0 text-center">
                                 <div class="image-over">
                                     <img src="assets/images/fortinet.png" alt="fortinet logo">
                                 </div>  
@@ -166,9 +166,9 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide slide-center item">
-                            <div class="row card p-0 text-center">
+                    </div>
+                    <div class="col-12 col-md-6 item">
+                        <div class="row card p-0 text-center">
                                 <div class="image-over">
                                     <img src="assets/images/mimecast.png" alt="mimecast logo">
                                 </div>  
@@ -180,9 +180,9 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="swiper-slide slide-center item">
-                            <div class="row card p-0 text-center">
+                    </div>
+                    <div class="col-12 col-md-6 item">
+                        <div class="row card p-0 text-center">
                                 <div class="image-over">
                                     <img src="assets/images/redhat.png" alt="red hat logo">
                                 </div>  
@@ -194,11 +194,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>       
-                    
+                    </div>
                 </div>
-
             </div>
         </section>
 </asp:Content>

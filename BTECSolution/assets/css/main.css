@@ -4416,7 +4416,9 @@ footer .copyright p {
 @media(max-width: 991px) {
 
     /* #region General */
-    
+    .logo-home{
+        height: auto;
+    }
 
     body h1,
     body .slide-content .title {
@@ -4515,7 +4517,9 @@ footer .copyright p {
     
 
     /* #region General */
-
+    .logo-home{
+        height: auto;
+    }
     body h1,
     body .slide-content .title {
         font-size: 3rem;
@@ -4714,7 +4718,9 @@ footer .copyright p {
 
     /* #region Feature */
     
-
+    .logo-home{
+        height: auto;
+    }
     body .bricklayer-column-sizer {
 		width: 100%;
     }

@@ -23,7 +23,7 @@
                                 </h1>
                                 <p data-aos="zoom-in" data-aos-delay="2400" class="description bigger">Growing Partenerships</p>--%>
                                 <img src="assets/images/logo-half.png" class="logo-home"/>
-                                <p data-aos="zoom-in" data-aos-delay="2400" class="text-center"><span class="description bigger">Growing Partenerships</span> <span><sup>TM</sup></span></p>
+                                <p data-aos="zoom-in" data-aos-delay="2400" class="text-center"><span class="description bigger">Growing Partnerships</span> <span><sup>TM</sup></span></p>
                                 <!-- Action -->
                                 <div data-aos="fade-up" data-aos-delay="2800" class="buttons">
                                     <div class="d-sm-inline-flex">
