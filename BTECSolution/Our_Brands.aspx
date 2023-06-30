@@ -58,12 +58,12 @@
                     <div class="col-12 col-md-6 item">
                         <div class="row card p-0 text-center">
                                 <div class="image-over">
-                                    <img src="assets/images/critix.png" alt="critix logo">
+                                    <img src="assets/images/nutanix.png" alt="nutanix logo">
                                 </div>  
                                 <div class="card-caption col-12 p-0">
                                     <div class="card-body">
                                         <a href="#">
-                                            <h4>Critix</h4>       
+                                            <h4>Nutanix</h4>       
                                         </a>
                                     </div>
                                 </div>
