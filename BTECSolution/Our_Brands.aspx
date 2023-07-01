@@ -36,7 +36,7 @@
             <div class="container smaller">
                 <div class="row text-center intro">
                     <div class="col-12">
-                        <h2 class="text-">Brands We Work With</h2>
+                        <h2 class="text-">Our Partners</h2>
                         
                     </div>
                 </div>
